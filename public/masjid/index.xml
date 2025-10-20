@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Masjid on Darul Hadeeth School For Islamic Studies</title>
+    <title>Masjids on Darul Hadeeth School For Islamic Studies</title>
     <link>//localhost:1313/masjid/</link>
-    <description>Recent content in Masjid on Darul Hadeeth School For Islamic Studies</description>
+    <description>Recent content in Masjids on Darul Hadeeth School For Islamic Studies</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/masjid/index.xml" rel="self" type="application/rss+xml" />
