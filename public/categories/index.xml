@@ -9,24 +9,10 @@
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lorem</title>
-      <link>//localhost:1313/categories/lorem/</link>
+      <title>News</title>
+      <link>//localhost:1313/categories/news/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/categories/lorem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>//localhost:1313/categories/programming/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/categories/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pseudo</title>
-      <link>//localhost:1313/categories/pseudo/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/categories/pseudo/</guid>
+      <guid>//localhost:1313/categories/news/</guid>
       <description></description>
     </item>
     <item>

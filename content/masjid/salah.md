@@ -1,11 +1,45 @@
 +++
-title = "Contact"
+title = "Salah Times"
 id = "contact"
 type = "page"
 +++
+![School Masjid Prayer Area](https://placehold.co/700x500?text=School+Masjid+Prayer+Area)
 
-# We are here to help you
+## Daily Prayer Schedule (Africa/Accra — GMT +00:00)
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+The school masjid follows the **Africa/Accra** timezone. Prayer times are adjusted monthly to reflect accurate sunrise and sunset calculations.
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+- **Fajr**  
+  - Adhān: 04:35 AM  
+  - Iqāmah: 04:50 AM  
+  - Remarks: Early morning congregation before school begins
+
+- **Sunrise**  
+  - Adhān: 05:45 AM  
+  - Iqāmah: —  
+  - Remarks: —
+
+- **Dhuhr**  
+  - Adhān: 11:45 AM  
+  - Iqāmah: 12:00 PM  
+  - Remarks: Held during the school’s midday recess
+
+- **Asr**  
+  - Adhān: 03:10 PM  
+  - Iqāmah: 03:25 PM  
+  - Remarks: Afternoon prayer before dismissal
+
+- **Maghrib**  
+  - Adhān: 05:47 PM  
+  - Iqāmah: +5 minutes after  
+  - Remarks: Performed immediately after sunset
+
+- **Isha**  
+  - Adhān: 06:55 PM  
+  - Iqāmah: 07:10 PM  
+  - Remarks: Open to students, staff, and community
+
+- **Jumuʿah (Friday Prayer)**  
+  - Adhān: 01:00 PM  
+  - Iqāmah: 01:30 PM  
+  - Rema

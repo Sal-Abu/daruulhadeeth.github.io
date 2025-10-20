@@ -15,12 +15,5 @@
       <guid>//localhost:1313/authors/salahiddin-abubakar/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Jane Doe</title>
-      <link>//localhost:1313/authors/jane-doe/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      <guid>//localhost:1313/authors/jane-doe/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
