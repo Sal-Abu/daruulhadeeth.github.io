@@ -1,6 +1,7 @@
 title = "Darul Hadeeth School For Islamic Studies"
 #theme = "hugo-universal-theme"
 languageCode = "en-us"
+baseURL = "daruulhadeeth.org"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # number of words of summarized post content (default 70)
