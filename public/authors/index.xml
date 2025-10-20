@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Darul Hadeeth School For Islamic Studies</title>
-    <link>//localhost:1313/authors/</link>
+    <link>daruulhadeeth.org/authors/</link>
     <description>Recent content in Authors on Darul Hadeeth School For Islamic Studies</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="daruulhadeeth.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Salahiddin Abubakar</title>
-      <link>//localhost:1313/authors/salahiddin-abubakar/</link>
+      <link>daruulhadeeth.org/authors/salahiddin-abubakar/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/authors/salahiddin-abubakar/</guid>
+      <guid>daruulhadeeth.org/authors/salahiddin-abubakar/</guid>
       <description></description>
     </item>
   </channel>
