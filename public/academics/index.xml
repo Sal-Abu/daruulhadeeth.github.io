@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academics on Darul Hadeeth School For Islamic Studies</title>
-    <link>daruulhadeeth.org/academics/</link>
+    <link>//localhost:1313/academics/</link>
     <description>Recent content in Academics on Darul Hadeeth School For Islamic Studies</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="daruulhadeeth.org/academics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/academics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum</title>
-      <link>daruulhadeeth.org/academics/curriculum/</link>
+      <link>//localhost:1313/academics/curriculum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>daruulhadeeth.org/academics/curriculum/</guid>
+      <guid>//localhost:1313/academics/curriculum/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Our curriculum is designed to provide a balanced education that nurtures the &lt;strong&gt;mind, body, and soul&lt;/strong&gt;. Students are guided to excel academically while developing strong moral character rooted in Islamic values.&lt;br&gt;&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse potenti. Duis non nisl vitae odio commodo blandit. Sed varius magna id felis facilisis, non vulputate neque tincidunt.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;core-subjects&#34;&gt;Core Subjects&lt;/h2&gt;&#xA;&lt;h3 id=&#34;islamic-studies&#34;&gt;Islamic Studies&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://placehold.co/600x200?text=Islamic+Studies&#34; alt=&#34;Islamic Studies&#34;&gt;&lt;br&gt;&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet arcu nec ligula egestas consequat. Integer sit amet sem ut sapien rhoncus aliquam. Vivamus fermentum orci vel dolor facilisis, ac commodo magna mattis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programs</title>
-      <link>daruulhadeeth.org/academics/programs/</link>
+      <link>//localhost:1313/academics/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>daruulhadeeth.org/academics/programs/</guid>
+      <guid>//localhost:1313/academics/programs/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Our school offers a diverse range of programs that foster both &lt;strong&gt;academic achievement&lt;/strong&gt; and &lt;strong&gt;spiritual growth&lt;/strong&gt;.&lt;br&gt;&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Proin viverra ante ac mauris congue, id bibendum orci porttitor. Vivamus a nulla a sapien vehicula tempor vitae et metus.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;core-programs&#34;&gt;Core Programs&lt;/h2&gt;&#xA;&lt;h3 id=&#34;full-time-islamic-school-program&#34;&gt;Full-Time Islamic School Program&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://placehold.co/600x200?text=Full-Time+Islamic+Program&#34; alt=&#34;Full-Time Program&#34;&gt;&lt;br&gt;&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit massa ut eros tempus, a euismod orci convallis. Donec fringilla sapien vel nibh tincidunt, ac accumsan odio blandit.&lt;br&gt;&#xA;Students follow a comprehensive curriculum that integrates &lt;em&gt;Islamic Studies, Qur’an, Arabic&lt;/em&gt;, and &lt;em&gt;academic subjects&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

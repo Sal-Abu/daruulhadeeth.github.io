@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Darul Hadeeth School For Islamic Studies</title>
-    <link>daruulhadeeth.org/about/</link>
+    <link>//localhost:1313/about/</link>
     <description>Recent content in Abouts on Darul Hadeeth School For Islamic Studies</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="daruulhadeeth.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mission &amp; Vision</title>
-      <link>daruulhadeeth.org/about/mission/</link>
+      <link>//localhost:1313/about/mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>daruulhadeeth.org/about/mission/</guid>
+      <guid>//localhost:1313/about/mission/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://placehold.co/700x300?text=Image&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;To nurture a generation of students grounded in &lt;strong&gt;faith, knowledge, and character&lt;/strong&gt;.&lt;br&gt;&#xA;We strive to cultivate hearts connected to Allah, minds enriched with understanding, and actions guided by compassion and justice.&lt;br&gt;&#xA;Through the balanced pursuit of &lt;em&gt;spiritual&lt;/em&gt;, &lt;em&gt;academic&lt;/em&gt;, and &lt;em&gt;personal excellence&lt;/em&gt;, our mission is to prepare students to lead with integrity and serve their communities with purpose.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-vision&#34;&gt;Our Vision&lt;/h2&gt;&#xA;&lt;p&gt;To be a beacon of Islamic education that harmonizes &lt;strong&gt;traditional wisdom&lt;/strong&gt; and &lt;strong&gt;modern learning&lt;/strong&gt;, inspiring lifelong seekers of truth.&lt;br&gt;&#xA;We envision an environment where students grow to embody the principles of the &lt;em&gt;Qur’an&lt;/em&gt; and &lt;em&gt;Sunnah&lt;/em&gt; while excelling in every field of study.&lt;br&gt;&#xA;Our vision is a world in which the light of faith guides progress, and every learner becomes a force for goodness, unity, and positive change.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Staff</title>
-      <link>daruulhadeeth.org/about/staff/</link>
+      <link>//localhost:1313/about/staff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>daruulhadeeth.org/about/staff/</guid>
+      <guid>//localhost:1313/about/staff/</guid>
       <description>&lt;h2 id=&#34;leadership-team&#34;&gt;Leadership Team&lt;/h2&gt;&#xA;&lt;h3 id=&#34;principal--firstname-lastname&#34;&gt;Principal – Firstname Lastname&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://placehold.co/200x200?text=Firstname+Lastname&#34; alt=&#34;Principal Firstname Lastname&#34;&gt;&lt;br&gt;&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar, metus ut rhoncus gravida, nulla magna vehicula neque, sed posuere justo ipsum ut erat. Curabitur vitae elementum arcu, id mattis sapien. In nec magna ac ligula volutpat varius.&lt;/p&gt;&#xA;&lt;h3 id=&#34;vice-principal--firstname-lastname&#34;&gt;Vice Principal – Firstname Lastname&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://placehold.co/200x200?text=Firstname+Lastname&#34; alt=&#34;Vice Principal Firstname Lastname&#34;&gt;&lt;br&gt;&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non tortor nec elit tincidunt porttitor. Sed dignissim velit at nisi efficitur, vel suscipit lorem luctus. Integer ut augue augue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Principal&#39;s Message</title>
-      <link>daruulhadeeth.org/about/message/</link>
+      <link>//localhost:1313/about/message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>daruulhadeeth.org/about/message/</guid>
+      <guid>//localhost:1313/about/message/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://placehold.co/700x300?text=Image&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-word-from-the-principal&#34;&gt;A Word from the Principal&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel magna sit amet erat varius tincidunt. Praesent posuere tellus et justo feugiat, ac consequat ligula fringilla. Sed ac nibh in odio dapibus rhoncus. Duis lacinia, nisl vitae malesuada pretium, purus orci eleifend felis, id varius urna elit nec eros. Vivamus dignissim nunc in justo fermentum, a fermentum mi interdum.&lt;/p&gt;&#xA;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nec ullamcorper sapien, sit amet interdum ex. Aliquam erat volutpat. Cras laoreet tellus in arcu viverra, ac suscipit nisi condimentum. Suspendisse potenti. Sed tempor, est at consequat suscipit, est ipsum suscipit libero, ut tincidunt urna justo et lectus.&lt;/p&gt;</description>
     </item>
   </channel>

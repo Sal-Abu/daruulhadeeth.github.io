@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>daruulhadeeth.org/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/tags/masjid/</loc>
+    <loc>//localhost:1313/tags/masjid/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/categories/news/</loc>
+    <loc>//localhost:1313/categories/news/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/tags/news/</loc>
+    <loc>//localhost:1313/tags/news/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/authors/salahiddin-abubakar/</loc>
+    <loc>//localhost:1313/authors/salahiddin-abubakar/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/tags/website/</loc>
+    <loc>//localhost:1313/tags/website/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/blog/2021/08/01/sitelaunch/</loc>
+    <loc>//localhost:1313/blog/2021/08/01/sitelaunch/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/blog/2015/06/24/masjidopens/</loc>
+    <loc>//localhost:1313/blog/2015/06/24/masjidopens/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/categories/starting/</loc>
+    <loc>//localhost:1313/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/tags/theme/</loc>
+    <loc>//localhost:1313/tags/theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>daruulhadeeth.org/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/academics/</loc>
+    <loc>//localhost:1313/academics/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/admissions/</loc>
+    <loc>//localhost:1313/admissions/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/admissions/apply/</loc>
+    <loc>//localhost:1313/admissions/apply/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/masjid/masjid/</loc>
+    <loc>//localhost:1313/masjid/masjid/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/contact/</loc>
+    <loc>//localhost:1313/contact/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/studentlife/</loc>
+    <loc>//localhost:1313/studentlife/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/academics/curriculum/</loc>
+    <loc>//localhost:1313/academics/curriculum/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/donate/</loc>
+    <loc>//localhost:1313/donate/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/faq/</loc>
+    <loc>//localhost:1313/faq/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/masjid/events/</loc>
+    <loc>//localhost:1313/masjid/events/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/masjid/</loc>
+    <loc>//localhost:1313/masjid/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/about/mission/</loc>
+    <loc>//localhost:1313/about/mission/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/about/staff/</loc>
+    <loc>//localhost:1313/about/staff/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/about/message/</loc>
+    <loc>//localhost:1313/about/message/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/academics/programs/</loc>
+    <loc>//localhost:1313/academics/programs/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/masjid/salah/</loc>
+    <loc>//localhost:1313/masjid/salah/</loc>
   </url><url>
-    <loc>daruulhadeeth.org/admissions/fees/</loc>
+    <loc>//localhost:1313/admissions/fees/</loc>
   </url>
 </urlset>
