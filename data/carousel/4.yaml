@@ -1,10 +1,6 @@
 weight: 4
-title: "Title Text"
-description: >
-  <ul class="list-style-none">
-    <li>Text Here</li>
-    <li>More Stuff Here</li>
-  </ul>
+title: "Support our Mission"
+description: "our generosity helps us educate, inspire, and sustain our school and masjid for generations to come."
 image: "img/carousel/cara5.jpg"
-href: "/"
+# href: "/"
 

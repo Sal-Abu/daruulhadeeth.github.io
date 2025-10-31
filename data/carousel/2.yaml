@@ -1,9 +1,4 @@
 weight: 2
-title: "Title Text"
-description: >
-  <ul class="list-style-none">
-    <li>Text Here</li>
-    <li>More Stuff Here</li>
-  </ul>
+title: "Our Community"
+description: "United by faith, strengthened through service — we grow together as one ummah."
 image: "img/carousel/cara2.jpg"
-href: "/"

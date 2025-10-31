@@ -309,7 +309,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Daruul Hadeeth - Dedicated to nurturing faith, knowledge, and unity within our growing community.</p>"
     copyright = "Copyright (c) 2025, Al-Fayez Islamic School; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -323,13 +323,13 @@ pluralizelisttitles = false
     logo = "img/logo/logogreen.jpg"
     logo_small = "img/logo/logogreen.jpg"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
+    address = """<p class="text-uppercase"><strong>Daruul Hadeeth Islamic School</strong>
         <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
         <br>
-        <strong>Great Britain</strong>
+        <br>45Y 73J
+        <br>Province
+        <br>
+        <strong>Country</strong>
       </p>
       """
 
@@ -341,7 +341,7 @@ pluralizelisttitles = false
     enable = true
     text = """<p class="hidden-sm hidden-xs">Contact us on +000 000 000 or daruulhadeeth@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="tel:+000 000 000 000" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:daruulhadeeth@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
@@ -391,8 +391,8 @@ pluralizelisttitles = false
     enable = true
     icon = "far fa-file-alt"
     title = "Want to Enroll?"
-    subtitle = "Some details about our academic process here."
-    link_url = "#"
+    subtitle = "Click the button below to learn more about our admissions process."
+    link_url = "/admissions/apply"
     link_text = "Apply Today!"
 
 [params.clients]
@@ -406,7 +406,7 @@ pluralizelisttitles = false
 [params.recent_posts]
     enable = true
     title = "News and Events"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = "See what’s happening at our school and masjid — from special programs to community news."
     hide_summary = false
 
 [params.footer.recent_posts]
